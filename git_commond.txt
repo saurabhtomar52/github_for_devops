@@ -1,0 +1,13 @@
+git status                                                                     
+git add .\texting.py                                                           
+ git status                                                                     
+git rm --cached                                                                
+git rm --cached .\texting.py
+git add .\texting.py                                                           
+git commit -m "adding texting.py\"                                             
+git status
+git remote add origin https://github.com/saurabhtomar52/github_for_devops.git                                                                            
+git branch -M main                                                                                                                                       
+git push -u origin main                                                                                                                                  
+git remote -v
+
