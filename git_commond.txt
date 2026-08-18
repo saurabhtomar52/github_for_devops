@@ -1,3 +1,12 @@
+git is a version control system that manage the code.
+SCM-source code management
+Basic git commond
+git init= is used to initialise empty git repository
+there are three stage in git 1- untracked 2- staging 3-tracked
+git rm --cached filename for change the file from staging to untracked
+git commit -m "message" used to change stageing to tracked\
+clone GitHub to local , fork GitHub to GitHub
+
 git status                                                                     
 git add .\texting.py                                                           
  git status                                                                     
